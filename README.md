@@ -35,4 +35,4 @@ I used unseen test dataset from kaggle and gained scores of 0.97496
 
 ## Others
 
-Other files are past practices of Machine Learning study
+Please see practice folder for past practices of Machine Learning study
